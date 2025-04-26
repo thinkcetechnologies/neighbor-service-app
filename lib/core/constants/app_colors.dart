@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+const Color appOrangeColor1 = Color(0xFFFCA34D);
+const Color appOrangeColor2 = Color(0xFFFBB359);
+const Color appLightPurpleColor1 = Color(0xFFD6CDFE);
+const Color appDeepBlueColor1 = Color(0xFF1564C0);
+const Color appSuffixIconColor = Color(0xFF60778C);
+const Color appShadowColor = Color(0xFF99ABC6);
+const Color appSmallTextColor = Color(0xFF524B6B);
+const Color appBackgroundColor = Color(0xFFF9F9F9);
+const Color appBlueCardColor = Color(0xFF130160);
+const Color appLightBlueCard = Color(0xFFAFECFE);
+const Color appMiddleBlueCard = Color(0xFFBEAFFE);
+const Color appCardFooterColor = Color(0xFFC4C4C4);
+const Color appFilterAppBarColor = Color(0xFF0D0140);
+const Color appFilterBtnColor = Color(0xFFCBC9D4);
+const Color appWhiteColor = Color(0xFFFFFFFF);
+const Color appBlackColor = Color(0xFF000000);
+const Color appGreyColor = Color(0xFF999999);
+const Color appLightTextColor = Color(0xFF60778C);
+const Color appDarkTextColor = Color(0xFF333333);
